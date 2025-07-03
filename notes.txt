@@ -4,19 +4,19 @@ Here are some React project ideas, organized by skill level and purpose, to help
 🚀 Beginner Projects
 Great for learning components, props, state, and basic hooks.
 
-To-Do List App
+To-Do List App✅
 
 Add, delete, and check off tasks
 
 LocalStorage persistence
 
-Weather App
+Weather App✅
 
 Fetch weather from an API like OpenWeatherMap
 
 Display current weather, forecast
 
-Counter App
+Counter App✅
 
 Simple counter with increment/decrement/reset
 
